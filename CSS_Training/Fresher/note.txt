@@ -1,0 +1,12 @@
+CSS is language for describing the web page
+
+No need to rush with css section
+
+Always stay on the Path
+
+No need to remember every properties of the css, so you can always find what you need on the internet
+
+DO NOT PANIC WITH THE CSS
+
+Optional : You can always use W3school to search for css, but remember always use mdn
+
