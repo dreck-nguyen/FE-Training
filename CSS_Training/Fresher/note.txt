@@ -10,3 +10,22 @@ DO NOT PANIC WITH THE CSS
 
 Optional : You can always use W3school to search for css, but remember always use mdn
 
+color : name, rgb, hex
+
+font : font-family, font-size, font-weight, text-decoration
+
+text-align : center, left, right, top, bottom
+
+background-color : color-name
+
+selector : h1, h2 span, #column, .board
+
+psudo-class
+
+psudo-element
+
+cascade : how the css work in order to present when them same element got styled
+
+ID > CLASS > ELEMENT
+
+Can use Specificity Calculator to calculate the priority of the css element
